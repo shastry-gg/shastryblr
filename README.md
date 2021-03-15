@@ -2,7 +2,7 @@
 I am on github to better understand the tech that powers my designs.
 - :briefcase: Officially I am a Product Designer. 
 - 🌱 I’m currently learning the box model, and liquid layouts.
-- 💞️ I’m looking to collaborate on interesting Foss projects that need a product designer's skills.
+- 💞️ I’m looking to collaborate on interesting FOSS projects that need a product designer's skills.
 - 📫 You can send a mail to ganesha@hey.com to catch up on FOSS, Design and Tech in general.
 
 <!---
